@@ -1,3 +1,7 @@
+# [편의점 절도행위 탐지](https://github.com/Songysp/-/blob/ba0dfdea3770c4ab8d4128221b083fa0f85c7408/%EA%B3%BC%EC%A0%9C/%ED%8E%B8%EC%9D%98%EC%A0%90%20%EC%A0%88%EB%8F%84%ED%96%89%EC%9C%84%20%ED%83%90%EC%A7%80.pdf)
+
+편의점 CCTV영상 내 절도 범죄 탐지 시스템
+
 # [Music-Genre-Classification](https://github.com/Songysp/-/tree/b39af4ecd3cf1af8e86bb0b6421005e2d8efcc49/%EA%B3%BC%EC%A0%9C/Music-Genre-Classification.io-main)
 
 
